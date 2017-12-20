@@ -60,6 +60,7 @@ namespace ProjektB
                 DateTime par2 = DateTime.Parse(parsed);
 
                 string res = par1.Hour.ToString("00") + ":" + par1.Minute.ToString("00") + "-" + par2.Hour.ToString("00") + ":" + par2.Minute.ToString("00");
+                time.Add(res);
             }
         }
     }

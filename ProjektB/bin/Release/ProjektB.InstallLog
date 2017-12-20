@@ -153,3 +153,45 @@ Zasažené parametry:
    logtoconsole = 
    logfile = C:\Users\Johnny\source\repos\ProjektB\ProjektB\bin\Release\ProjektB.InstallLog
    assemblypath = C:\Users\Johnny\source\repos\ProjektB\ProjektB\bin\Release\ProjektB.exe
+Odinstalace sestavení C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.InstallLog
+   assemblypath = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Odebírání zdroje EventLog Weather Mail Monkey
+Odebírání služby Weather Mail Monkey ze systému...
+Služba Weather Mail Monkey byla úspěšně odebrána ze systému.
+Instalace sestavení C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.InstallLog
+   assemblypath = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Instalace služby Weather Mail Monkey...
+Služba Weather Mail Monkey byla úspěšně nainstalována.
+Vytváření zdroje EventLog Weather Mail Monkey v protokolu Application...
+Potvrzování sestavení C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.InstallLog
+   assemblypath = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Odinstalace sestavení C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.InstallLog
+   assemblypath = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Odebírání zdroje EventLog Weather Mail Monkey
+Odebírání služby Weather Mail Monkey ze systému...
+Služba Weather Mail Monkey byla úspěšně odebrána ze systému.
+Instalace sestavení C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.InstallLog
+   assemblypath = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Instalace služby Weather Mail Monkey...
+Služba Weather Mail Monkey byla úspěšně nainstalována.
+Vytváření zdroje EventLog Weather Mail Monkey v protokolu Application...
+Potvrzování sestavení C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe
+Zasažené parametry:
+   logtoconsole = 
+   logfile = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.InstallLog
+   assemblypath = C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Release\ProjektB.exe

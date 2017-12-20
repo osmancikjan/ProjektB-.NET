@@ -7,3 +7,13 @@ C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.csproj.Generat
 C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.csproj.CoreCompileInputs.cache
 C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.exe
 C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.pdb
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Debug\ProjektB.exe.config
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Debug\ProjektB.exe
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\bin\Debug\ProjektB.pdb
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.ProjectInstaller.resources
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.Service1.resources
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.csproj.GenerateResource.Cache
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.exe
+C:\Users\Johnny\Documents\GitHub\ProjektB-.NET\ProjektB\obj\Debug\ProjektB.pdb
