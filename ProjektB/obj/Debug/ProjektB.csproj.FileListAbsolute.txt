@@ -1,0 +1,9 @@
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\bin\Debug\ProjektB.exe.config
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\bin\Debug\ProjektB.exe
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\bin\Debug\ProjektB.pdb
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.csprojResolveAssemblyReference.cache
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.Service1.resources
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.csproj.GenerateResource.Cache
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.csproj.CoreCompileInputs.cache
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.exe
+C:\Users\Johnny\source\repos\ProjektB\ProjektB\obj\Debug\ProjektB.pdb
